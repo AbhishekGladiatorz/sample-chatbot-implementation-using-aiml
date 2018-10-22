@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<!-- Free software (c) 2001 ALICE AI Foundation -->
+<!-- This program is open source code released under -->
+<!-- the terms of the GNU General Public License -->
+<!-- as published by the Free Software Foundation. -->
+
+<meta name="author" content="Dr. Wallace"/>
+<meta name="language" content="en"/>
+
+<category>
+<pattern> ANIMALS </pattern>
+<template>
+<br />
+Animals are multicellular eukaryotic organisms that form the <br />
+biological kingdom Animalia. With few exceptions, animals consume <br />
+organic material, breathe oxygen, are able to move, reproduce sexually, <br />
+and grow from a hollow sphere of cells, the blastula, during embryonic<br />
+ development. Over 1.5 million living animal species have been described of <br />
+ which around 1 million are insects but it has been estimated there are <br />
+ over 7 million animal species in total. Animals range in length from <br />
+ 8.5 millionths of a metre to 33.6 metres (110 ft) and have complex <br />
+ interactions with each other and their environments, forming intricate<br />
+food webs. The study of animals is called zoology. you can see the link  <br />
+https://en.wikipedia.org/wiki/Animal for more <br />
+<br />
+</template>  
+</category>  
+   
+<category>
+<pattern> * ANIMALS </pattern>
+<template>
+<br />
+Animals are multicellular eukaryotic organisms that form the <br />
+biological kingdom Animalia. With few exceptions, animals consume <br />
+organic material, breathe oxygen, are able to move, reproduce sexually, <br />
+and grow from a hollow sphere of cells, the blastula, during embryonic<br />
+ development. Over 1.5 million living animal species have been described of <br />
+ which around 1 million are insects but it has been estimated there are <br />
+ over 7 million animal species in total. Animals range in length from <br />
+ 8.5 millionths of a metre to 33.6 metres (110 ft) and have complex <br />
+ interactions with each other and their environments, forming intricate<br />
+food webs. The study of animals is called zoology. you can see the link  <br />
+https://en.wikipedia.org/wiki/Animal for more <br />
+<br />
+</template>  
+</category>  
+
+
+<category>
+<pattern> SNAKES </pattern>
+<template>
+<br />
+Snakes are elongated, legless, carnivorous reptiles of the suborder <br />
+Serpentes Like all squamates, snakes are ectothermic, amniote vertebrates <br />
+covered in overlapping scales. Many species of snakes have skulls with <br />
+several more joints than their lizard ancestors, enabling them to swallow<br />
+prey much larger than their heads with their highly mobile jaws. To<br />
+accommodate their narrow bodies, snakes' paired organs (such as kidneys)<br />
+appear one in front of the other instead of side by side, and most <br />
+have only one functional lung. Some species retain a pelvic girdle <br />
+with a pair of vestigial claws on either side of the cloaca. Lizards <br />
+have evolved elongate bodies without limbs or with greatly reduced limbs <br />
+about twenty five times independently via convergent evolution, leading <br />
+to many lineages of legless lizards.[3] Legless lizards resemble snakes, <br />
+but several common groups of legless lizards have eyelids and external <br />
+ears, which snakes lack, although this rule is not universal (see <br />
+Amphisbaenia, Dibamidae, and Pygopodidae).reach https://en.wikipedia.org/wiki/Snake <br />
+for more information <br />
+<br />
+</template>  
+</category>  
+
+
+<category>
+<pattern> * SNAKES </pattern>
+<template>
+<br />
+Snakes are elongated, legless, carnivorous reptiles of the suborder <br />
+Serpentes Like all squamates, snakes are ectothermic, amniote vertebrates <br />
+covered in overlapping scales. Many species of snakes have skulls with <br />
+several more joints than their lizard ancestors, enabling them to swallow<br />
+prey much larger than their heads with their highly mobile jaws. To<br />
+accommodate their narrow bodies, snakes' paired organs (such as kidneys)<br />
+appear one in front of the other instead of side by side, and most <br />
+have only one functional lung. Some species retain a pelvic girdle <br />
+with a pair of vestigial claws on either side of the cloaca. Lizards <br />
+have evolved elongate bodies without limbs or with greatly reduced limbs <br />
+about twenty five times independently via convergent evolution, leading <br />
+to many lineages of legless lizards.[3] Legless lizards resemble snakes, <br />
+but several common groups of legless lizards have eyelids and external <br />
+ears, which snakes lack, although this rule is not universal (see <br />
+Amphisbaenia, Dibamidae, and Pygopodidae).reach https://en.wikipedia.org/wiki/Snake <br />
+for more information <br />
+<br />
+</template>  
+</category>  
+
+</aiml>
